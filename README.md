@@ -3,6 +3,7 @@ Metadata Documents with ox_lib for ESX
 
 ## Dependencies
  - ox_lib
+ - ox_inventory
  - esx
 
 ## Items
