@@ -9,12 +9,12 @@ author 'fabzhii'
 description 'F-Documents by fabzhii'
 version '1.0.0'
 
-client_script {
+client_scripts {
     "config.lua",
     "client.lua",
 }
 
-server_script {
+server_scripts {
     "config.lua",
     "server.lua" ,
 }
